@@ -23,3 +23,9 @@
     - secondly clone from your github reository
     - thirdly locally add required changes / file and make commit
     - then create pull request
+# Adding 2 more things I have learnt
+1. Branching & Merging
+    - for creating branch use this command 'git branch BranchName'
+    - for merging use this command 'git merge BranchName'
+2. Merge conflict resolves on git and github
+    - after resolves conflict add & make a commit before push remote repository
